@@ -5,6 +5,6 @@ Tecnologías utilizadas:
 3. Zod
 4. Nodemailer
 
-Este servidor recibe los datos de un formulario. Verifica que los datos ingersados sean correctos, si lo son, envia un email al correo que se le asigne.
+Este servidor recibe los datos de un formulario. Verifica que los datos ingresados sean correctos, si lo son, envía un email al correo que se le asigne.
 
 [Repositorio del frontend](https://github.com/wilberdhp/contact-form-client)
